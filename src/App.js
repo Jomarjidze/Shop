@@ -11,7 +11,7 @@ const firebaseConfig = {
   messagingSenderId: "SENDER_ID",
   appId: "APP_ID"
 };
-
+// kdfgjdfl;kgjdfl;k
 // ვრთავთ Firebase-ს
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
